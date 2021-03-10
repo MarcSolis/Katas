@@ -31,7 +31,11 @@ We can briefly summarize the scoring for this form of bowling:
 	- The game score is the total of all frame scores.
 */
 
-int Main() {
+#include "V0.h"
+
+int main() {
+	
+	V0::Execute();
 
 	return  0;
 }
